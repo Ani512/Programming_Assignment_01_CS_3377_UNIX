@@ -1,0 +1,40 @@
+Script started on 2021-03-30 09:30:32+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[1m[7m%[27m[1m[0m                                                                                ]2;anirudh@anirudh-VirtualBox:~/PA_01]1;~/PA_01[0m[27m[24m[J[01;32m➜  [36mPA_01[00m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /home/anirudh/PA_01/.git/
+[1m[7m%[27m[1m[0m                                                                                ]2;anirudh@anirudh-VirtualBox:~/PA_01]1;~/PA_01[0m[27m[24m[J[01;32m➜  [36mPA_01[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mPA_GitHub.typescript[m
+	[31mcode.cpp[m
+	[31mcode.o[m
+	[31mmakefile.pa1[m
+	[31moutput[m
+	[31mversion.cpp[m
+	[31mversion.h[m
+	[31mversion.o[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                ]2;anirudh@anirudh-VirtualBox:~/PA_01]1;~/PA_01[0m[27m[24m[J[01;32m➜  [36mPA_01[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                ]2;anirudh@anirudh-VirtualBox:~/PA_01]1;~/PA_01[0m[27m[24m[J[01;32m➜  [36mPA_01[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit commit -m "Version_1.2.0"[?1l>[?2004l
+]2;git commit -m "Version_1.2.0"]1;git[master (root-commit) 2fa733b] Version_1.2.0
+ 8 files changed, 221 insertions(+)
+ create mode 100644 PA_GitHub.typescript
+ create mode 100644 code.cpp
+ create mode 100644 code.o
+ create mode 100755 makefile.pa1
+ create mode 100755 output
+ create mode 100644 version.cpp
+ create mode 100644 version.h
+ create mode 100644 version.o
+[1m[7m%[27m[1m[0m                                                                                ]2;anirudh@anirudh-VirtualBox:~/PA_01]1;~/PA_01[0m[27m[24m[J[01;32m➜  [36mPA_01[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hggit push -u origin master                  remote add origin https://github.com/Ani512/Programming_Assignment_01_CS_3377_UNIX.git[K[?1l>[?2004l
+]2;git remote add origin ]1;git[1m[7m%[27m[1m[0m                                                                                ]2;anirudh@anirudh-VirtualBox:~/PA_01]1;~/PA_01[0m[27m[24m[J[01;32m➜  [36mPA_01[00m [01;34mgit:([31mmaster[34m)[00m [K[?1h=[?2004hgit remote add origin https://github.com/Ani512/Programming_Assignment_01_CS_3377_UNIX.git[K[A[10D[K[1B[K[A[22Cggit push -u origin master[?1l>[?2004l[1B]2;git push -u origin master]1;gitUsername for 'https://github.com': Ani512
+Password for 'https://Ani512@github.com': 
+Enumerating objects: 10, done.
+Counting objects:  10% (1/10)Counting objects:  20% (2/10)Counting objects:  30% (3/10)Counting objects:  40% (4/10)Counting objects:  50% (5/10)Counting objects:  60% (6/10)Counting objects:  70% (7/10)Counting objects:  80% (8/10)Counting objects:  90% (9/10)Counting objects: 100% (10/10)Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects:  11% (1/9)Compressing objects:  22% (2/9)Compressing objects:  33% (3/9)Compressing objects:  44% (4/9)Compressing objects:  55% (5/9)Compressing objects:  66% (6/9)Compressing objects:  77% (7/9)Compressing objects:  88% (8/9)Compressing objects: 100% (9/9)Compressing objects: 100% (9/9), done.
+Writing objects:  10% (1/10)Writing objects:  20% (2/10)Writing objects:  30% (3/10)Writing objects:  40% (4/10)Writing objects:  50% (5/10)Writing objects:  60% (6/10)Writing o

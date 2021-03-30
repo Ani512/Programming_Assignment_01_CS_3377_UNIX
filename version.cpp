@@ -7,4 +7,4 @@ void printVersion(double VERSION) {
   cout << "Current Version is " << VERSION << endl << endl;
 }
 
-// This is a comment
+// This is a comment okay
