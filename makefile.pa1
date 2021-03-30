@@ -1,0 +1,5 @@
+output: code.o version.o ; g++ code.o version.o -o output
+code.o: code.cpp ; g++ -c code.cpp
+version.o: version.cpp ; g++ -c version.cpp
+clean: 
+	rm -f *.o output
